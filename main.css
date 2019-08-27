@@ -1,44 +1,50 @@
+<style type=text/css>
+counter-reset: my-sec-counter;
+    color: #3b3b3b;
+    font-family: 'Gotham-Book';
+
+}
 body {
-    margin: 60px auto;
-    width: 70%;
+
+    font-family: 'Lato';
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0;
+    color: #141313;
+
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+body {
+
+    background-color: #fff;
+    background-image: url();
+    background-repeat: ;
+
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+body {
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
     color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+    background-color: #fff;
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
+body {
 
-ul.posts li {
-    list-style: none;
+    margin: 0;
+
 }
-jekyll-theme-leap-day
+* {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+html {
+
+    font-size: 10px;
+
+}
