@@ -1,5 +1,4 @@
 <style type=text/css>
-<style type=text/css>
 counter-reset: my-sec-counter;
     color: #3b3b3b;
     font-family: 'Gotham-Book';
@@ -7,7 +6,7 @@ counter-reset: my-sec-counter;
 }
 body {
 
-    font-family: 'Lato';
+    
     font-size: 16px;
     line-height: 28px;
     font-weight: 400;
@@ -25,8 +24,7 @@ body {
 }
 body {
 
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
+    
     line-height: 1.42857143;
     color: #333;
     background-color: #fff;
