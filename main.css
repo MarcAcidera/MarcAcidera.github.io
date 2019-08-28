@@ -1,6 +1,4 @@
-
-    
-    *,
+*,
     *::before,
         *:after{
             
@@ -151,6 +149,9 @@
         .about h3{
             font-weight: 300;
             margin: 50px 0;
+            
+            
+            
             
             
             
